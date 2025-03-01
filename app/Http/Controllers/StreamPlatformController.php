@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use App\Models\StreamPlatform;
-use App\services\StreamPlatformService;
+use App\Services\StreamPlatformService;
 use Illuminate\Database\QueryException;
 use Illuminate\Http\Request;
 

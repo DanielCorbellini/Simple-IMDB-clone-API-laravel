@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Http\Controllers\Controller;
 use App\Models\StreamPlatform;
 use App\Models\Watchlist;
-use App\services\StreamPlatformService;
+use App\Services\StreamPlatformService;
 use App\Services\WatchlistService;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Http\Request;
